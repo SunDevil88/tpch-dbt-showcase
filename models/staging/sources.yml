@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: tpch
+    database: dbt-tpch-showcase
+    schema: dbt_jmedimpudi
+    tables:
+      - name: orders
+      - name: lineitem
+      - name: customer
+      - name: supplier
+      - name: part
