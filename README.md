@@ -15,6 +15,9 @@ models/
     └── core/         # Final dimension and fact tables for analytics consumption.
 ```
 
+## DAG                      
+<img width="1186" height="460" alt="image" src="https://github.com/user-attachments/assets/64e176a6-3b97-46eb-9665-92094b85e8af" />
+
 ---
 
 ## Data Model
