@@ -1,5 +1,8 @@
 # TPC-H dbt Showcase
 
+[![dbt Fundamentals Certified](https://img.shields.io/badge/dbt-Fundamentals%20Certified-FF694B?logo=dbt&logoColor=white)](https://credentials.getdbt.com/9f3a50ad-1b5a-49f9-ad4c-a17757fc2066#acc.2Nu94EsF)
+
+End-to-end analytics engineering project built with dbt Cloud and BigQuery...
 A production-style analytics engineering project built with dbt and BigQuery.
 It transforms raw TPC-H supply chain data into a clean star schema ready for analytics.
 
